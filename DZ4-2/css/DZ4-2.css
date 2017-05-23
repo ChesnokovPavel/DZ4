@@ -1,0 +1,71 @@
+.board{
+	height: 600px;
+	width: 600px;
+	margin: 50px auto;
+	border: 2px solid rgb(0,0,0);
+	position: relative;
+}
+.red{
+	height: 200px;
+	width: 200px;
+	background: rgb(133,0,0);
+}
+.a1{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.a2{
+	position: absolute;
+	top: 0px;
+	left: 400px;
+}
+.a3{
+	position: absolute;
+	top: 200px;
+	left: 200px;
+}
+.a4{
+	position: absolute;
+	top: 400px;
+	left: 000px;
+}
+.a5{
+	position: absolute;
+	top: 400px;
+	left: 400px;
+}
+.img{
+	height: 200px;
+	width: 200px;
+}
+.b1{
+	position: absolute;
+	top: 0px;
+	left: 200px;
+}
+.b2{
+	position: absolute;
+	top: 200px;
+	left: 0px;
+}
+.b3{
+	position: absolute;
+	top: 400px;
+	left: 200px;
+}
+.c1{
+	height: 180px;
+	width: 180px;
+	margin: 10px 0px 0px 10px;
+}
+.c2{
+	height: 180px;
+	width: 180px;
+	margin: 10px 0px 0px 13px;
+}
+.c3{
+	height: 180px;
+	width: 180px;
+	margin: 8px 0px 0px 11px;
+}
