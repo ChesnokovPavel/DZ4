@@ -1,3 +1,6 @@
+body{
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
 .lenovo-body{
 	height: 526px;
 	width: 376px;
@@ -6,38 +9,37 @@
 	position: relative;
 }
 .lenovo-text{
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
 	font-size: 22px;
-	margin: 9px 0px 0px 3px;
+	margin: 9px 0px 0px 2px;
 	text-align: center;
 	letter-spacing: 0.9px;
 	line-height: 120%;
 }
 .lenovo-img{
-	height: 288px;
+	height: 285px;
 	width: 250px;
 	position: absolute;
-	top: 84px;
+	top: 85px;
 	left: 64px;
 }
 .lenovo-cost{
 	background-color: rgb(139,193,68);
 	height: 31px;
 	width: 190px;
+	border: 0px;
 	position: absolute;
 	top: 373px;
 	left: 0px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-size: 22px;
-	color: #fff;
 	box-shadow: -3px 3px rgb(156,156,156);
 }
 .lenovo-cost-text{
-	margin: 3px 0px 0px 37px;
-	letter-spacing: 0.9px;
+	margin: -3px 0px 0px -7px;
+	letter-spacing: 0.4px;
+	font-size: 22px;
+	font-weight: 100;
+	color: #fff;
 }
 .lenovo-cost-text2{
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
 	font-size: 31px;
 	letter-spacing: 0.9px;
 	position: absolute;
@@ -46,18 +48,18 @@
 }
 .lenovo-buy{
 	background-color: rgb(255,0,0);
-	height: 45px;
-	width: 228px;
+	height: 46px;
+	width: 229px;
 	position: absolute;
-	top: 472px;
-	left: 63px;
-	box-shadow: 0px 4px rgb(133,0,0);
+	top: 471px;
+	left: 62px;
+	box-shadow: -1px 4px rgb(133,0,0);
+	border: 0px;
 }
 .lenovo-buy-text{
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
 	font-size: 28px;
 	color: #fff;
-	margin: 7px 0px 0px 74px;
+	margin: -2px 0px 0px 14px;
 	letter-spacing: 0.9px;
 	text-shadow: -1px 1px rgb(34,0,0);
 }
